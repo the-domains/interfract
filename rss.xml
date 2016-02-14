@@ -4,7 +4,7 @@
         <description><![CDATA[interfracting the grid]]></description>
         <link>https://thegrid.ai/interfract/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 04:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 01:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interfract/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/interfract/d0263270-d998-4905-9c11-06117d98873d/index.html</link>
             <guid isPermaLink="false">d0263270-d998-4905-9c11-06117d98873d</guid>
             <pubDate>Fri, 12 Feb 2016 04:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Marxed</p>]]></description>
+            <link>https://thegrid.ai/interfract/a424585c-d268-495a-95fc-ac406a1fd8fe/index.html</link>
+            <guid isPermaLink="false">a424585c-d268-495a-95fc-ac406a1fd8fe</guid>
+            <pubDate>Sun, 14 Feb 2016 01:28:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
